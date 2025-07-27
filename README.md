@@ -1,2 +1,5 @@
-# TermuxTool
-In This Repo. in I Upload My Created Termux Tools in Python Language and Bash Language 
+# Tool & Commands
+### 1. File Structure React
+```powershell
+mkdir "components", "routers", "context", "pages",api, "components/sections"; ni routers\index.tsx -ItemType File; ni pages\index.tsx -ItemType File
+```
